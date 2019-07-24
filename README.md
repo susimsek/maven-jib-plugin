@@ -6,7 +6,7 @@ Create Docker Image
 ./mvnw compile jib:dockerBuild
 
 
-Run Docker Iamge
+Run Docker Image
 
-docker run -p 8080:8080 spring-jib
+docker run -p 8080:8080 helloworld-jib
 

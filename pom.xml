@@ -43,7 +43,7 @@
                 <version>0.9.6</version>
                 <configuration>
                     <to>
-                        <image>helloworld-jib</image>
+                        <image>suayb/helloworld-jib:${project.version}</image>
                     </to>
                 </configuration>
             </plugin>
