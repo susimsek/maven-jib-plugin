@@ -10,3 +10,8 @@ Run Docker Image
 
 docker run -p 8080:8080 helloworld-jib
 
+Run Maven Release
+
+mvn release:prepare
+mvn release:perform
+
